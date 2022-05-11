@@ -5,7 +5,7 @@ Kanban Project Management is a web application to manage software development pr
 
 > **Kanban** is a workflow management method for defining, managing, and improving services that deliver knowledge work. It aims to help you visualize your > work, maximize efficiency, and improve continuously.
 
-## Demo
+
 
 ## Features 🚀
 
