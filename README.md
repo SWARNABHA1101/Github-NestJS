@@ -50,7 +50,7 @@ Some of the things you can do with **Kanban Project Management**:
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 -   `git clone https://github.com/SWARNABHA1101/Github-NestJS.git`
--   `cd kanban-project-management/`
+-   `cd Github-NestJS/`
 -   `npm run install:all` to install all dependencies (frontend and backend)
 
 > You can install the **frontend** and **backend** dependencies individually with `npm run install:frontend` and `npm run install:backend` respectively.
